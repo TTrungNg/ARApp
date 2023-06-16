@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314003237247",
+    "project_id": "ar-furniture-app-9acda",
+    "storage_bucket": "ar-furniture-app-9acda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314003237247:android:19b503a00118af78bc924a",
+        "android_client_info": {
+          "package_name": "com.kami.arapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314003237247-vg2a0urkbfp1outfdueqs5nip9m22151.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIampo_s5eDLjpTsi5vYAxd4XP9prwwC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314003237247-vg2a0urkbfp1outfdueqs5nip9m22151.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
