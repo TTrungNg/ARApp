@@ -7,21 +7,28 @@ Based on an Udemy course: [https://www.udemy.com/course/flutter-ios-android-augm
 - Removing Background API
 
 ## What this app can do
-
 Choose whatever items you like to display it
-![Homepage](https://drive.google.com/file/d/1tMA95BaN-VAhL0FQgvjpLzlSJQjWAxZb/view?usp=sharing)
+
+
+![Homepage](picture/354032847_273950728368147_2673904690245076275_n.png)
 
 Information of a particular item
-![Information](https://drive.google.com/file/d/1aFvShg7Vhs82R3bve7IxklIc2LrSBeRa/view?usp=sharing)
+
+
+![Information](picture/354783478_620675560031834_1768997681549520100_n.png)
 
 Display it on camera using AR 
-![AR view](https://drive.google.com/file/d/1mdCeOttj_pIa9twdx07Bso88ZGHDKNoh/view?usp=sharing)
 
-Moreover, user can capture items of their own by 
-![Step 1](https://drive.google.com/file/d/1agx2YdYeln9OnIT5BmgdSgozRgyCK3iz/view?usp=sharing)
 
-![Step 2](https://drive.google.com/file/d/1e605FDDfuhjpHw0FHC796NBQDS_a_N-x/view?usp=sharing)
+![AR view](picture/354473046_1626170457873043_2555734367433032114_n.png)
 
-![Step 3](https://drive.google.com/file/d/1_2Cw7U2xnVOgX3r6H7SAF51XNHCFavix/view?usp=sharing)
+Moreover, users can capture items of their own
 
-![Step 4](https://drive.google.com/file/d/1FHQOlM_5eDSJFB62ZGNfwZSEiUP_cKEH/view?usp=sharing)
+
+![Step 1](picture/352591658_931733708131970_4327042206390949244_n.png)
+
+![Step 2](picture/354316516_213009124939299_4978570687908270737_n.png)
+
+![Step 3](picture/354786447_216732291240875_333941252721838516_n.png)
+
+![Step 4](picture/354522171_755611969683150_2402849885913284523_n.png)
